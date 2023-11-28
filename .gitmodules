@@ -1,0 +1,9 @@
+[submodule "mocp"]
+	path = mocp
+	url = https://github.com/donalshortt/mocp
+[submodule "mocb"]
+	path = mocb
+	url = https://github.com/donalshortt/mocb
+[submodule "mocf"]
+	path = mocf
+	url = https://github.com/donalshortt/mocf

@@ -10,10 +10,11 @@ MOC (Master of Ceremonies) is a tool to facilitate Europa Universalis IV multipl
 
 ## Features
 
-- A web frontend
--- Displays modified scores
--- Displays modifiers
--- Displays graph(s)
--- Admin page
-- A TUI parser program 
--- Allows the creation and selection of games
+**A web frontend**
+- Displays modified scores
+- Displays modifiers
+- Displays graph(s)
+- Admin page
+
+**A TUI parser program**
+- Allows the creation and selection of games
